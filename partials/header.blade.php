@@ -1,4 +1,4 @@
-<title>Oklahoma Innovation Institute</title>
+<title>Nano Confinement Science Gateway</title>
 <div id="navbar" class="navbar">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -11,13 +11,13 @@
             <span class="oii-logo"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/oii-logo.png"/></span>
           </a>
         </div>
-        <div class="collapse navbar-collapse">
+{{--        <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right oii-links">
             <li><a class="scroll hidden" href="#home"></a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About TSC SciGW</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About Nano Confinement</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="http://www.oii.org/tandy-supercomputing-center">Find Out More!</a></li>
           </ul>
-        </div><!--/.nav-collapse -->
+        </div><!--/.nav-collapse -->--}}
       </div>
     </div>
 
