@@ -1,76 +1,39 @@
-<title>Nano Confinement Science Gateway</title>
-<link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/brand/3.x/brand.css">
-<link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/search/3.x/search.css">
-<link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/web/3.x/css/iu-framework.min.css">
-    <script src="https://assets.iu.edu/web/1.5/libs/modernizr.min.js"></script>
-<style>
-.content-area{
-    max-width: 100%;
-}
-
-.theme-header{
-  background: #fff;
-}
-
-#search{
-    position: fixed;
-}
-#toggles{
-    position: absolute;
-}
-
- .search-open .search-toggle {
-  top: -56px !important;
-}
- 
-
-</style>
-
-<div id="branding-bar" itemscope="itemscope" itemtype="https://schema.org/CollegeOrUniversity" role="complementary" aria-labelledby="campus-name">
-    <div class="row pad">
-            <img src="//assets.iu.edu/brand/3.x/trident-large.png" alt="IU" />
-            <p id="iu-campus">
-                <a href="https://www.iu.edu" title="Indiana University">
-                    <span id="campus-name" class="show-on-desktop" itemprop="name">Indiana University</span>
-                    <span class="show-on-tablet" itemprop="name">Indiana University</span>
-                    <span class="show-on-mobile" itemprop="name">IU</span>
-                </a>
-            </p>
-    </div>
-</div>
-
-<div id="toggles">
-    <div class="row pad">
-        <button class="button hide-for-large" data-toggle="offCanvas">Menu</button>
-        <a class="button search-toggle" href="/search">Open Search Feature</a>
-    </div>
-</div>
-
-
-<div id="search" class="search-box" role="search"></div>
-
-<div class="off-canvas-wrappper-inner" data-off-canvas-wrapper="">
-  <div class="off-canvas-content" data-off-canvas-content="">
-    <header class="site-header" itemscope="itemscope" itemtype="https://schema.org/CollegeOrUniversity" role="banner">
-
-        <div class="row pad">
-          @if(! Session::get("loggedin"))
-            <h1><a class="title" href="{{URL::to('/')}}" itemprop="department">Nano Confinement Science Gateway</a></h1>
-          @endif
+<title>Oklahoma Innovation Institute</title>
+<div id="navbar" class="navbar">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
+            <span class="oii-logo"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/oii-logo.png"/></span>
+          </a>
         </div>
-    </header>
-
-    @if(! Session::get("loggedin"))
-    <div class="nav-secondary show-for-small">
-      <div class="row pad">
-        <ul class="inline separators" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
-          <li class="first"><a href="{{URL::to('/')}}/login" itemprop="url"><span itemprop="name">Login</span></a></li>
-          <li><a href="{{URL::to('/')}}/create" itemprop="url"><span itemprop="name">Register</span></a></li>
-          <li class="last"><a href="{{URL::to('/')}}/#contact" itemprop="url"><span itemprop="name">Contact</span></a></li>
-        </ul>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right oii-links">
+            <li><a class="scroll hidden" href="#home"></a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About TSC SciGW</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="http://www.oii.org/tandy-supercomputing-center">Find Out More!</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
       </div>
     </div>
-    @endif
-  </div>
-</div>
-    
+
+    <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
+
+
+    <!--[if IE 9]>
+        <script src="js/PIE_IE9.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <script src="js/PIE_IE678.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+<link media="all" type="text/css" rel="stylesheet" href="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/css/style.css"/>
