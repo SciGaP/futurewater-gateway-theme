@@ -39,13 +39,11 @@
 
           <div class="row">
             <div class="layout">
-              <div class="text"><h2>Portal to IU computing resources</h2>
+              <div class="text"><h2>Nano Confinement Gateway</h2>
                 <div class="row">
                   <ul>
-                    <li>Easy job submissions to IU computing resources, BigRed2, Karst and Mason.</li>
-                    <li>Monitor and manage running jobs in IU computing resources.</li>
+                    <li>Try Nano Confinement code on IU and XSEDE computing resources.</li>
                     <li>Share your research experimental data with fellow researchers.</li>
-                    <li>You can request your application on IU portal for job submissions.</li>
                   </ul>
                   <!--
                   <div class="col-md-12">
@@ -102,7 +100,7 @@
                     </li>
                   </ul>
                   -->
-                  <h4>Do you have a science gateway that you would like to list here, or would you like more information on creating a science gateway? Contact the Science Gateway Group at <a href="mailto:sgrc@iu.edu">sgrc@iu.edu</a></h4>
+                  <h4>Interested in the code or service and willing to contribute and collaborate, contact Vikram Jadhao at <a href="mailto:vjadhao@iu.edu">vjadhao@iu.edu</a></h4>
               </div>
             </div>
           </div>
@@ -122,23 +120,16 @@
                   <div class="belt-title" style="margin-bottom: .5em;">
                     <h2>Contact Us</h2>
                   </div>
-                  <p style="padding-right:10%;">The IU Cyberinfrastructure Gateway is operated by Research Technologies division of UITS. Cybergaterway is based on Apache Airavata developed and supported by the Science Gateways Research Center - SGRC</p>
+                  <p style="padding-right:10%;">The Nano Confinement Science Gateway by Prof. Vikram Jadhao Group at  based on Apache Airavata developed and supported by the Science Gateways Research Center</p>
 
-                <h2>UITS Assistance</h2>
-                <p><a class="" href="https://rt.uits.iu.edu/ask_rt.php" target="_blank">Ask RT for Assistance</a><br/><a class="" href="https://kb.iu.edu/d/apgt" target="_blank">UITS Support Center</a>
-                </p>
                 </div>
             </div>
             <div class="one-half">
-                <!--
-                <h2>Chat with a Consultant</h2>
-                <p><a class="" href="http://ithelplive.iu.edu/" target="_blank">ITHelpLive</a> ( IU Login Required)
-                -->
 
                   <h4>Center Website:</h4>
-                  <p><a href="https://sgrc.iu.edu/" target="_blank">https://sgrc.iu.edu/</a></p>
+                  <p><a href="https://www.soic.indiana.edu/all-people/profile.html?profile_id=449" target="_blank">https://www.soic.indiana.edu/all-people/profile.html?profile_id=449</a></p>
                   <h4>Email:</h4>
-                  <p><a href="mailto:sgrc@indiana.edu">sgrc@indiana.edu</a></p>
+                  <p><a href="mailto:vjadhao@iu.edu">vjadhao@iu.edu</a></p>
 
                   <!--
                   <h2 class="visually-hidden">Pervasive Technology Institute social media channels</h2>
@@ -149,8 +140,8 @@
                   </ul>
                   -->
                   <h4>Mail Address:</h4>
-                  <p style="margin-top: 1em;">IU Cyberinfrastructure Building (CIB)<br>
-                  2709 E. 10th St.<br>
+                  <p style="margin-top: 1em;">Smith Research Center<br>
+                      2805 E. 10th St, Suite 150<br>
                   Bloomington, IN 47408</p>
             </div>
         </div>
