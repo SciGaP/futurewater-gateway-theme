@@ -1,4 +1,4 @@
-<title>IU Cybergateway</title>
+<title>Nano Confinement Science Gateway</title>
 <link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/brand/3.x/brand.css">
 <link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/search/3.x/search.css">
 <link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/web/3.x/css/iu-framework.min.css">
@@ -55,7 +55,7 @@
 
         <div class="row pad">
           @if(! Session::get("loggedin"))
-            <h1><a class="title" href="{{URL::to('/')}}" itemprop="department">IU Cybergateway</a></h1>
+            <h1><a class="title" href="{{URL::to('/')}}" itemprop="department">Nano Confinement Science Gateway</a></h1>
           @endif
         </div>
     </header>
