@@ -15,7 +15,9 @@
 		<div class="col-md-6 scigap-info">
 			<h1 >Nano Confinement Science Gateway</h1>
 			<p style="color:#cccccc;">
-				<h2>Welcome!</h2><br/> The Nano Confinement Science Gateway explore the effects of high electrolyte concentrations, multivalent ions, dielectric contrasts, and external electric feld on the ionic distributions.<br/>
+				<h2>Welcome!</h2><br/> The Nano Confinement Science Gateway enables users to explore the effects of high electrolyte concentrations, multivalent ions, dielectric contrasts, and external electric field on the ionic distributions.
+                Sample use cases include the study of Role of dielectric contrast; Role of valency of ions; Role of varying salt concentration; Role of making the interface permeable and Role of charged interface
+            <br/>
 			</p>
 			<hr/>
 			<button class="btn btn-primary btn-lg">Car-Parrinello Molecular Dynamics</button>
@@ -34,7 +36,6 @@
 	<div class="row">
 		<div class="col-md-offset-2 col-md-8">
 
-
 		</div>
 	</div>
 
@@ -44,7 +45,7 @@
 			<tr>
 				<td width="100px"><img id="myImg2" alt="Material Simulations" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/material-simulation.png" style="width:100%"></img></td>
 				<td>
-					<p  class="text-left" style="margin-left: 25px"><A href="http://aip.scitation.org/doi/10.1063/1.4935704">
+					<p  class="text-left" style="margin-left: 25px"><A href="http://aip.scitation.org/doi/10.1063/1.4935704" target="_blank">
 							Jing, Yufei, Vikram Jadhao, Jos W. Zwanikken, and Monica Olvera de la Cruz. "Ionic structure in liquids confined by dielectric interfaces." The Journal of chemical physics 143, no. 19 (2015): 194508.
 
 				</td>
