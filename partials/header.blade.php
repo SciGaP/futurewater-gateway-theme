@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
-            <span class="oii-logo"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/oii-logo.png"/></span>
+            <span class="oii-logo"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/structure.png"/></span>
           </a>
         </div>
 {{--        <div class="collapse navbar-collapse">
