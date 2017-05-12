@@ -6,7 +6,7 @@
 
 	<div class="row">
 		<div class="col-md-offset-2 col-md-2">
-			<img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/tandy.png" width="100%"/>
+			<img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/particle-box.png" width="100%"/>
 			<hr/>
 			<a href="{{ URL::to('/') }}/login"><h4>Login</h4></a><hr/>
 			<a href="{{ URL::to('/') }}/create"><h4>Register</h4></a><hr/>
