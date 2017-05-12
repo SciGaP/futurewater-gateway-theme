@@ -15,7 +15,7 @@
 		<div class="col-md-6 scigap-info">
 			<h1 >Nano Confinement Science Gateway</h1>
 			<p style="color:#cccccc;">
-				<h2>Welcome!</h2><br/> The Nano Confinement Science Gateway is a friendly way to access the Tandy Supercomputing Cluster.<br/>
+				<h2>Welcome!</h2><br/> The Nano Confinement Science Gateway explore the effects of high electrolyte concentrations, multivalent ions, dielectric contrasts, and external electric feld on the ionic distributions.<br/>
 			</p>
 			<hr/>
 			<button class="btn btn-primary btn-lg">Accelerate Research</button>
