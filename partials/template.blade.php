@@ -18,14 +18,15 @@
 				<h2>Welcome!</h2><br/> The Nano Confinement Science Gateway explore the effects of high electrolyte concentrations, multivalent ions, dielectric contrasts, and external electric feld on the ionic distributions.<br/>
 			</p>
 			<hr/>
-			<button class="btn btn-primary btn-lg">Accelerate Research</button>
+			<button class="btn btn-primary btn-lg">Car-Parrinello Molecular Dynamics</button>
 			<p style="font-size:14px; margin-top:20px;">
-				We provide dedicated computing power to over 100 researchers from 4 institutions, powering transformative research in dozens of disciplines. Learn how TSC is helping advance science in our community.
+                Simulation of ions in media with piecewise-uniform dielectric response employing Car- Parrinello molecular dynamics method of dynamical optimization allowing for a faster, accurate, and stable computation of dielectric effects via an on-the-fly evaluation of the induced charge at the dielectric interfaces.
 			</p>
-			<button class="btn btn-primary btn-lg">Powering growth</button>
-			<p style="font-size:14px; margin-top:20px;">
-				Our industry memberships help you get ahead of the curve in R&D, save time and money, and deliver new capabilities. Free services are available for start-ups and proofs of concept. Learn how TSC creates a competitive advantage for our members and our community.
-			</p>
+
+            <button class="btn btn-primary btn-lg">Accelerate Research</button>
+            <p style="font-size:14px; margin-top:20px;">
+                Powered by Computational Resources and Indiana University and Extreme Science and Engineering Discovery Environment (XSEDE), the gateway provides the MD simulations as a service.
+            </p>
 
 		</div>
 	</div>
@@ -36,5 +37,23 @@
 
 		</div>
 	</div>
+
+	<h1 class="text-center">Publications</h1>
+	<div style="width: 92%; margin-left: 5%; padding-left:15px">
+		<table>
+			<tr>
+				<td width="100px"><img id="myImg2" alt="Material Simulations" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/material-simulation.png" style="width:100%"></img></td>
+				<td>
+					<p  class="text-left" style="margin-left: 25px"><A href="http://aip.scitation.org/doi/10.1063/1.4935704">
+							Jing, Yufei, Vikram Jadhao, Jos W. Zwanikken, and Monica Olvera de la Cruz. "Ionic structure in liquids confined by dielectric interfaces." The Journal of chemical physics 143, no. 19 (2015): 194508.
+
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<br style="clear:both"/>
+	<hr style="color:green"/>
+
 </div>
 
