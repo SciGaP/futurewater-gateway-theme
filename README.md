@@ -1,2 +1,2 @@
-# IU-Cybergateway-portal-theme
-PGA theme for Indiana University Cybergateway - https://cybergateway.iu.edu/
+# Nanoconfinement Science Gateway Theme
+Gateway hosted URL - https://nanoconfinement.sciencegateways.iu.edu/

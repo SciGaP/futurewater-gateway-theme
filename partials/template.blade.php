@@ -1,60 +1,131 @@
-<div class="col-md-12 oii-top-banner">
-</div>
+<div class="nano-top-banner"></div>
 
+<main class="wide" role="main">
 
-<div class="col-md-12 breathing-space">
+    <div class="bg-crimson bg-image bg-dark section" id="">
 
-	<div class="row">
-		<div class="col-md-offset-2 col-md-2">
-			<img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/particle-box.png" width="100%"/>
-			<hr/>
-			<a href="{{ URL::to('/') }}/login"><h4>Login</h4></a><hr/>
-			<a href="{{ URL::to('/') }}/create"><h4>Register</h4></a><hr/>
-		</div>
+        <div class="row text">
+            <h2>Nanoconfinement Science Gateway enables you to:</h2>
+            <ul>
+                <li>Simulate ions confined between biological and synthetic surfaces that are
+                    nanometers apart.
+                </li>
+                <li>Experiment with various ionic and environmental attributes including ion valency and
+                    salt concentration.
+                </li>
+                <li>Obtain information about the distribution and assembly of ions in nanoconfinement.</li>
+                <li>Run simulations on IU and XSEDE HPC computational resources.</li>
+                <li>Share your simulation results with your peers.</li>
+            </ul>
+        </div>
+    </div>
 
-		<div class="col-md-6 scigap-info">
-			<h1 >Nano Confinement Science Gateway</h1>
-			<p style="color:#cccccc;">
-				<h2>Welcome!</h2><br/> The Nano Confinement Science Gateway enables users to explore the effects of high electrolyte concentrations, multivalent ions, dielectric contrasts, and external electric field on the ionic distributions.
-                Sample use cases include the study of Role of dielectric contrast; Role of valency of ions; Role of varying salt concentration; Role of making the interface permeable and Role of charged interface
-            <br/>
-			</p>
-			<hr/>
-			<button class="btn btn-primary btn-lg">Car-Parrinello Molecular Dynamics</button>
-			<p style="font-size:14px; margin-top:20px;">
-                Simulation of ions in media with piecewise-uniform dielectric response employing Car- Parrinello molecular dynamics method of dynamical optimization allowing for a faster, accurate, and stable computation of dielectric effects via an on-the-fly evaluation of the induced charge at the dielectric interfaces.
-			</p>
+    <div class="breakout bg-none section" id="">
+        <div class="row">
+            <div class="text">
+                <h4>A snapshot showing induced density map produced during a CPMD simulation (center) on one of
+                    the interfaces as a result of the instantaneous configuration of ions confined between the
+                    two interfaces (left). The induced charges in CPMD match with the exact values (right)
+                    signalling the success of the on-the-fly simulation.</h4>
+                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/workflowimage.png"/>
+            </div>
+        </div>
+    </div>
 
-            <button class="btn btn-primary btn-lg">Accelerate Research</button>
-            <p style="font-size:14px; margin-top:20px;">
-                Powered by Computational Resources and Indiana University and Extreme Science and Engineering Discovery Environment (XSEDE), the gateway provides the MD simulations as a service.
-            </p>
+    <div class="bg-crimson bg-dark section" id="">
+        <div class="row">
+            <div class="one-half">
+                <div class="panel--interactive">
+                    <p class="title"> Molecular Dynamics (MD)</p>
+                    <p>Standard MD techniques provide an accurate estimate for the ionic distribution for a
+                        system
+                        with no dielectric mismatch across interfaces. The competition between electrostatic and
+                        entropic interactions
+                        accurately captured in this simulation determines the ionic structure.</p>
+                </div>
+            </div>
+            <div class="one-half">
+                <div class="panel--interactive">
+                    <p class="title">Car-Parrinello Molecular Dynamics (CPMD)</p>
+                    <p>Advanced methods are needed to simulate ions near interfaces with dielectric mismatch.
+                        Taking cues from nature, we developed CPMD that enables the simulation of ions in
+                        conjunction
+                        with the update of the medium’s dielectric response.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-		</div>
-	</div>
+    <div class="breakout bg-none section" id="">
+        <div class="row">
+            <div class="one-half">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <h4>Researchers’ view of a sample result on the Gateway: Ionic distributions within 3 nm confinement
+                    for ions of different valency (1,2,3).</h4>
+            </div>
+            <div class="one-half">
+                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sample.results.png"/>
+            </div>
+        </div>
+    </div>
 
-	<div class="row">
-		<div class="col-md-offset-2 col-md-8">
+    <div class="bg-crimson bg-image bg-dark section" id="">
+        <div class="row">
+            <div class="text"><h2>Contact Information:</h2>
+                <p>The Nanoconfinement Science Gateway is operated by Suresh Marru and Vikram Jadhao. </p>
+                <p>Lab Website <a href="https://jadhaolab.engineering.indiana.edu/" target="_blank">https://jadhaolab.engineering.indiana.edu/</a>
+                </p>
+                <p>Email: <a href="mailto:smarru@iu.edu">smarru at iu.edu</a>, <a href="mailto:vjadhao@iu.edu">vjadhao
+                        at iu.edu</a></p>
+                <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache
+                        Airavata</a> developed and supported by the <a
+                            href="https://sgrc.iu.edu/" target="_blank">IU Science Gateways Research Center.</a>
+            </div>
+        </div>
+    </div>
 
-		</div>
-	</div>
+    <div class="section bg-none belt" id="contact">
+        <div class="row">
+            <div class="grid">
+                <div class="belt-social invert border">
+                    <div class="belt-title" style="margin-bottom: .5em;">
+                        <h3>References:</h3>
+                    </div>
+                    <p style="padding-right:10%;">
+                        The following publications describe the nanoconfinement simulation methods and
+                        provide useful background. </p>
+                    <ul>
+                        <li>
+                            <a href="http://aip.scitation.org/doi/10.1063/1.4935704" target="_blank">
+                                Jing, Yufei, Vikram Jadhao, Jos W. Zwanikken, and Monica Olvera de la Cruz.
+                                "Ionic
+                                structure in liquids confined by dielectric interfaces." The Journal of Chemical
+                                Physics 143, no. 19 (2015): 194508.
+                            </a></li>
+                        <li>
+                            <a href="http://aip.scitation.org/doi/abs/10.1063/1.4789955" target="_blank">
+                                Vikram Jadhao, Francisco J. Solis, and Monica Olvera de la Cruz. "A variational
+                                formulation
+                                of electrostatics in a medium with spatially varying dielectric permittivity"
+                                The Journal of Chemical Physics, 138, (2013): 054119.
+                            </a></li>
+                        <li>
+                            <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.223905"
+                               target="_blank">
+                                Vikram Jadhao, Francisco J. Solis, and Monica Olvera de la Cruz. "Simulation of
+                                charged
+                                systems in heterogeneous dielectric media via a true energy functional" Physical
+                                Review Letters,
+                                109, no. 22 (2012): 223905.
+                            </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 
-	<h1 class="text-center">Publications</h1>
-	<div style="width: 92%; margin-left: 5%; padding-left:15px">
-		<table>
-			<tr>
-				<td width="100px"><img id="myImg2" alt="Material Simulations" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/material-simulation.png" style="width:100%"></img></td>
-				<td>
-					<p  class="text-left" style="margin-left: 25px"><A href="http://aip.scitation.org/doi/10.1063/1.4935704" target="_blank">
-							Jing, Yufei, Vikram Jadhao, Jos W. Zwanikken, and Monica Olvera de la Cruz. "Ionic structure in liquids confined by dielectric interfaces." The Journal of chemical physics 143, no. 19 (2015): 194508.
-
-				</td>
-			</tr>
-		</table>
-	</div>
-
-	<br style="clear:both"/>
-	<hr style="color:green"/>
-
-</div>
-
+</main>
