@@ -3,26 +3,44 @@
 <main class="wide" role="main">
 
     <div class="bg-crimson bg-image bg-dark section" id="">
+        <div class="row">
+        <h2>Nanoconfinement Science Gateway enables you to:</h2>
+
+            <div class="one-third text-center">
+                <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-th"></span><p>Obtain information about the distribution and assembly of ions in nanoconfinement.</p>
+            </div>
+            <div class="one-third text-center">
+            <span style="font-size:2em;" class="glyphicon glyphicon-th-list">
+            <p>Run simulations on IU and XSEDE HPC computational resources.</p>
+            </div>
+            <div class="one-third text-center">
+                <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-share"></span>
+                <p>Share your simulation results with your peers.</p>
+            </div>
+            </ul>
+        </div>
 
         <div class="row text">
-            <h2>Nanoconfinement Science Gateway enables you to:</h2>
-            <ul>
-                <li>Simulate ions confined between biological and synthetic surfaces that are
+            
+            <div class="one-half text-center">
+                <span style="font-size:1.5em;" class="glyphicon glyphicon-tasks"></span>
+                <p>Simulate ions confined between biological and synthetic surfaces that are
                     nanometers apart.
-                </li>
-                <li>Experiment with various ionic and environmental attributes including ion valency and
+                </p>
+            </div>
+            <div class="one-half text-center">
+            <span style="font-size:1.5em;" class="glyphicon glyphicon-random" ></span>
+                <p>Experiment with various ionic and environmental attributes including ion valency and
                     salt concentration.
-                </li>
-                <li>Obtain information about the distribution and assembly of ions in nanoconfinement.</li>
-                <li>Run simulations on IU and XSEDE HPC computational resources.</li>
-                <li>Share your simulation results with your peers.</li>
-            </ul>
+                </p>
+            </div>
         </div>
     </div>
 
     <div class="breakout bg-none section" id="">
         <div class="row">
             <div class="text">
+                <h2>Example</h2>
                 <h4>A snapshot showing induced density map produced during a CPMD simulation (center) on one of
                     the interfaces as a result of the instantaneous configuration of ions confined between the
                     two interfaces (left). The induced charges in CPMD match with the exact values (right)

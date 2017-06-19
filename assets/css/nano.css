@@ -3,3 +3,17 @@
     background-repeat: repeat-x;
     height:180px;
 }
+
+.navbar-inverse{
+    background: #fff;
+    color:#333;
+}
+
+.navbar-inverse a:hover{
+	color:#000 !important;
+}
+
+.navbar-header:before{
+	content: "NANOCONFINEMENT";
+	font-size:2em;
+}
