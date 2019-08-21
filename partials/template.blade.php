@@ -1,7 +1,7 @@
 <div class="nano-top-banner"></div>
 
 <main class="wide" role="main">
-<!--
+
     <div class="bg-crimson bg-image bg-dark section" id="">
         <div class="row">
         <h2>Nanoconfinement Science Gateway enables you to:</h2>
@@ -36,20 +36,19 @@
             </div>
         </div>
     </div>
--->
+
 
     <div class="breakout bg-none section" id="">
         <div class="row">
             <div class="text">
-                <h2>Future Water Science Gateway is ....</h2>
-                <h3>Modeling climate change impact on Indiana's water resources. The project is part of the "Prepared for Environmental Change" Grand Challenge.</h3>
+                <h2>Future Water Project is ....</h2>
                 <p>
                 To better assess water resources availability in the future, we used the USDA Soil-Water Assessment Tool software package and climate
                 projections from an ensemble of 10 global climate models (GCMs) to simulate climate change impacts on the water cycles in the Wabash River Basin,
                 which covers most of Indiana. Our computer simulations predicted the water cycles to the year 2100 under
                 two IPCC CO2 emission scenarios: RCP 4.5 and 8.5, representing a medium- and high-emissions scenario, respectively.
                 </p>
-                <br></br>
+
                 <p>
                 Successful management of water resources requires us all not only to put the best sciences into our
                 forecasts but also to change the ways that scientific results are communicated. We have endeavored to make the model and modeling
