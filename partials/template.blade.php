@@ -18,7 +18,7 @@
                 forecasts but also to change the ways that scientific results are communicated. We have endeavored to make the model and modeling
                 results accessible to scholar collaborators and  policy makers, and the public. Please visit the two tabs below respectively.
                 </p>
-                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/workflowimage.png"/>
+               <!-- <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/workflowimage.png"/> -->
             </div>
         </div>
     </div>
