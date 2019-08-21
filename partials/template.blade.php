@@ -2,41 +2,37 @@
 
 <main class="wide" role="main">
 
-    <div class="bg-crimson bg-image bg-dark section" id="">
+    <div class="bg-crimson bg-dark section" id="">
         <div class="row">
-        <h2>Nanoconfinement Science Gateway enables you to:</h2>
-
-            <div class="one-third text-center">
-                <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-th"></span><p>Obtain information about the distribution and assembly of ions in nanoconfinement.</p>
+            <div class="one-half">
+                <div class="panel--interactive">
+                    <p class="title"> FutureWater Computations </p>
+                    <p>Computations are done by water resource experts and scholar collaborators. Our hydrological data and model source codes will be hosted on
+                    IU’s exceptional High-Performance Computing cyberinfrastructure. Collaborators can either run their own models by modifying the input
+                    files or mine the huge catches of modeling output files stored on Big Red II and analyze the data to answer questions related to their own disciplines.
+                       These models could become research infrastructure for student dissertation research across schools and disciplines with
+                       downstream applications, for instances of flood frequency forecasting, social-economic modeling, and animal migrations. We
+                       envision a near future where our models and gateway, once fully developed, become a platform for future research collaboration and
+                       service toward better management of water quantity and water quality in Indiana.
+.</p>
+                    <p>
+                    <a href="https://gateway.futurewater.indiana.edu/login" target="_blank">Login to run Computations</a>
+                    </p>
+                </div>
             </div>
-            <div class="one-third text-center">
-            <span style="font-size:2em;" class="glyphicon glyphicon-th-list">
-            <p>Run simulations on IU and XSEDE HPC computational resources.</p>
-            </div>
-            <div class="one-third text-center">
-                <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-share"></span>
-                <p>Share your simulation results with your peers.</p>
-            </div>
-            </ul>
-        </div>
-
-        <div class="row text">
-            
-            <div class="one-half text-center">
-                <span style="font-size:1.5em;" class="glyphicon glyphicon-tasks"></span>
-                <p>Simulate ions confined between biological and synthetic surfaces that are
-                    nanometers apart.
-                </p>
-            </div>
-            <div class="one-half text-center">
-            <span style="font-size:1.5em;" class="glyphicon glyphicon-random" ></span>
-                <p>Experiment with various ionic and environmental attributes including ion valency and
-                    salt concentration.
-                </p>
+            <div class="one-half">
+                <div class="panel--interactive">
+                    <p class="title">Model Exploration</p>
+                    <p>some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
+                    choose a CO2 emission scenario, and choose a time period. The maps will show forecasts of precipitation, streamflow level, and soil moisture.
+                    Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
+                    <p>
+                    <a href="https://analysis.futurewater.indiana.edu" target="_blank">Explore current Results</a>
+                    </p>
+                </div>
             </div>
         </div>
     </div>
-
 
     <div class="breakout bg-none section" id="">
         <div class="row">
@@ -58,6 +54,43 @@
             </div>
         </div>
     </div>
+
+    <div class="bg-crimson bg-image bg-dark section" id="">
+            <div class="row">
+            <h2>Nanoconfinement Science Gateway enables you to:</h2>
+
+                <div class="one-third text-center">
+                    <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-th"></span><p>Obtain information about the distribution and assembly of ions in nanoconfinement.</p>
+                </div>
+                <div class="one-third text-center">
+                <span style="font-size:2em;" class="glyphicon glyphicon-th-list">
+                <p>Run simulations on IU and XSEDE HPC computational resources.</p>
+                </div>
+                <div class="one-third text-center">
+                    <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-share"></span>
+                    <p>Share your simulation results with your peers.</p>
+                </div>
+                </ul>
+            </div>
+
+            <div class="row text">
+
+                <div class="one-half text-center">
+                    <span style="font-size:1.5em;" class="glyphicon glyphicon-tasks"></span>
+                    <p>Simulate ions confined between biological and synthetic surfaces that are
+                        nanometers apart.
+                    </p>
+                </div>
+                <div class="one-half text-center">
+                <span style="font-size:1.5em;" class="glyphicon glyphicon-random" ></span>
+                    <p>Experiment with various ionic and environmental attributes including ion valency and
+                        salt concentration.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
 
     <div class="bg-crimson bg-dark section" id="">
         <div class="row">
