@@ -60,7 +60,7 @@
                 <p class="title"> Contact Us</p>
                     <p> The FutureWater gateway us part of the "Prepared for Environmental Change" Grand Challenge
                     </p>
-                    <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu
+                    <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu </a>
                     </p>
                     <p> Email: <a href="mailto:henzhu@indiana.edu"> Chen</a></p>
                     <p>The FutureWater Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
