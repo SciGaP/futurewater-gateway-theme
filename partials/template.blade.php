@@ -41,11 +41,8 @@
     <div class="breakout bg-none section" id="">
         <div class="row">
             <div class="text">
-                <h2>Example</h2>
-                <h4>A snapshot showing induced density map produced during a CPMD simulation (center) on one of
-                    the interfaces as a result of the instantaneous configuration of ions confined between the
-                    two interfaces (left). The induced charges in CPMD match with the exact values (right)
-                    signalling the success of the on-the-fly simulation.</h4>
+                <h2>Future Water Science Gateway</h2>
+                <h3>Modeling climate change impact on Indiana's water resources. The project is part of the "Prepared for Environmental Change" Grand Challenge.</h3>
                 <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/workflowimage.png"/>
             </div>
         </div>
@@ -55,7 +52,7 @@
         <div class="row">
             <div class="one-half">
                 <div class="panel--interactive">
-                    <p class="title"> Molecular Dynamics (MD)</p>
+                    <p class="title"> SciGaP Gateway Platform </p>
                     <p>Standard MD techniques provide an accurate estimate for the ionic distribution for a
                         system
                         with no dielectric mismatch across interfaces. The competition between electrostatic and
@@ -65,7 +62,7 @@
             </div>
             <div class="one-half">
                 <div class="panel--interactive">
-                    <p class="title">Car-Parrinello Molecular Dynamics (CPMD)</p>
+                    <p class="title">Apache Airavata</p>
                     <p>Advanced methods are needed to simulate ions near interfaces with dielectric mismatch.
                         Taking cues from nature, we developed CPMD that enables the simulation of ions in
                         conjunction
