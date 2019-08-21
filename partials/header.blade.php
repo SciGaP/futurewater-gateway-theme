@@ -1,4 +1,4 @@
-<title>Nanoconfinement Science Gateway</title>
+<title>FutureWater Science Gateway</title>
 <link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/brand/3.x/brand.css">
 <link media="all" type="text/css" rel="stylesheet" href="https://assets.iu.edu/web/3.x/css/iu-framework.min.css">
 <link media="all" type="text/css" rel="stylesheet" href="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/css/futurewater.css"/>
@@ -14,7 +14,7 @@
     <div class="row pad">
         <img src="//assets.iu.edu/brand/3.x/trident-large.png" alt="IU" />
         <p id="iu-campus">
-            <a href="https://nanoconfinement.sciencegateways.iu.edu/" title="FutureWater Science Gateway">
+            <a href="https://gateway.futurewater.indiana.edu/" title="FutureWater Science Gateway">
                 <span id="campus-name" class="show-on-desktop" itemprop="name">FutureWater Science Gateway</span>
                 <span class="show-on-tablet" itemprop="name">FutureWater Science Gateway</span>
                 <span class="show-on-mobile" itemprop="name">FutureWater</span>
