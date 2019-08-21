@@ -53,20 +53,20 @@
             <div class="one-half">
                 <div class="panel--interactive">
                     <p class="title"> SciGaP Gateway Platform </p>
-                    <p>Standard MD techniques provide an accurate estimate for the ionic distribution for a
-                        system
-                        with no dielectric mismatch across interfaces. The competition between electrostatic and
-                        entropic interactions
-                        accurately captured in this simulation determines the ionic structure.</p>
+                    <p>SciGaP is a hosted service with a public API that science gateways can use to manage applications and workflows running on remote supercomputers,
+                    as well as other services.
+                    Gateway developers can thus concentrate their efforts on building their scientific communities and not worry about operations.
+                    Science Gateway Platform as a Service (SciGaP) provides application programmer interfaces (APIs) to hosted generic infrastructure services that can be used by domain science
+                    communities to create Science Gateways.</p>
+                    <a href="https://scigap.org/" target="_blank">Learn More</a>
                 </div>
             </div>
             <div class="one-half">
                 <div class="panel--interactive">
                     <p class="title">Apache Airavata</p>
-                    <p>Advanced methods are needed to simulate ions near interfaces with dielectric mismatch.
-                        Taking cues from nature, we developed CPMD that enables the simulation of ions in
-                        conjunction
-                        with the update of the medium’s dielectric response.</p>
+                    <p>Apache Airavata is a software framework which is dominantly used to build Web-based science gateways and assist to compose, manage, execute and monitor large scale applications and workflows on distributed computing resources such as local clusters, supercomputers, national grids, academic and commercial clouds.
+                    Airavata mainly supports long running applications and workflows on distributed computational resources.</p>
+                    <a href="https://airavata.apache.org/" target="_blank">Learn More</a>
                 </div>
             </div>
         </div>
