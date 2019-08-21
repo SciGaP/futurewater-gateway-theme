@@ -19,7 +19,7 @@
                         results accessible to scholar collaborators and  policy makers, and the public.
                         </p>
                         <p>
-                        <a class="button" href="https://futurewater.indiana.edu" target="_blank">FutureWater Home</a>
+                        <a class="button" href="https://futurewater.indiana.edu" target="_blank">Future Water Home</a>
                         </p>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
         <div class="row">
             <div class="panel--interactive">
                 <p class="title"> Contact Us</p>
-                    <p> The Future Water gateway us part of the "Prepared for Environmental Change" Grand Challenge
+                    <p> The Future Water gateway is part of the "Prepared for Environmental Change" Grand Challenge
                     </p>
                     <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu </a>
                     </p>
