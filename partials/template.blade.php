@@ -1,7 +1,7 @@
 <div class="nano-top-banner"></div>
 
 <main class="wide" role="main">
-
+<!--
     <div class="bg-crimson bg-image bg-dark section" id="">
         <div class="row">
         <h2>Nanoconfinement Science Gateway enables you to:</h2>
@@ -36,6 +36,7 @@
             </div>
         </div>
     </div>
+-->
 
     <div class="breakout bg-none section" id="">
         <div class="row">
@@ -49,7 +50,7 @@
             </div>
         </div>
     </div>
-<!--
+
     <div class="bg-crimson bg-dark section" id="">
         <div class="row">
             <div class="one-half">
@@ -90,7 +91,7 @@
             </div>
         </div>
     </div>
-    -->
+
 
     <div class="bg-crimson bg-image bg-dark section" id="">
         <div class="row">
