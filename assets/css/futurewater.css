@@ -1,7 +1,11 @@
 .nano-top-banner {
-    background:url('../img/futurewaterbanner.png');
-    background-repeat: repeat-x;
+    background:url('../img/futurewaterbanner.jpg');
     height:180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    /* counteract the margin added by .content-area */
+    margin-top: -20px;
 }
 /*
 .navbar-inverse{
@@ -17,3 +21,7 @@
 	content: "FutureWater";
 	font-size:2em;
 }*/
+
+.button > .glyphicon {
+    color: currentColor;
+}

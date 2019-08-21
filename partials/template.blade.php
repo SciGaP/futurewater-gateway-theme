@@ -31,7 +31,9 @@
                         Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
                         </p>
                         <p>
-                        <a class="button" href="https://analysis.futurewater.indiana.edu" target="_blank">Login to Explore</a>
+                        <a class="button" href="https://analysis.futurewater.indiana.edu" target="_blank">Explore Results
+                        <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span>
+                        </a>
                         </p>
                     </div>
                 </div>
