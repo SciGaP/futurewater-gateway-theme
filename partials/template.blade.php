@@ -44,7 +44,7 @@
     <div class="breakout bg-crimson bg-dark section" id="">
         <div class="row">
             <div class="text">
-                <h3>FutureWater Computations</h3>
+                <h3>Future Water Computations</h3>
                 <p>
                 Computations are done by water resource experts and scholar collaborators. Our hydrological data and model
                 source codes will be hosted on IU’s exceptional High-Performance Computing cyberinfrastructure. Collaborators can either run their own models by modifying the input files or mine the huge catches of modeling output files stored on Big Red II and analyze the data to answer questions related to their own disciplines. These models could become research infrastructure for student dissertation research across schools and disciplines with downstream applications, for instances of flood frequency forecasting, social-economic modeling, and animal migrations. We envision a near future where our models and gateway, once fully developed,
@@ -58,12 +58,12 @@
         <div class="row">
             <div class="panel--interactive">
                 <p class="title"> Contact Us</p>
-                    <p> The FutureWater gateway us part of the "Prepared for Environmental Change" Grand Challenge
+                    <p> The Future Water gateway us part of the "Prepared for Environmental Change" Grand Challenge
                     </p>
                     <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu </a>
                     </p>
                     <p> Email: <a href="mailto:henzhu@indiana.edu"> Chen</a></p>
-                    <p>The FutureWater Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
+                    <p>The Future Water Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
                 <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
                 <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache Airavata</a>
             </div>

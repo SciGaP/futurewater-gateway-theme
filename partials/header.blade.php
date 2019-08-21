@@ -14,10 +14,10 @@
     <div class="row pad">
         <img src="//assets.iu.edu/brand/3.x/trident-large.png" alt="IU" />
         <p id="iu-campus">
-            <a href="https://gateway.futurewater.indiana.edu/" title="FutureWater Science Gateway">
-                <span id="campus-name" class="show-on-desktop" itemprop="name">FutureWater Science Gateway</span>
-                <span class="show-on-tablet" itemprop="name">FutureWater Science Gateway</span>
-                <span class="show-on-mobile" itemprop="name">FutureWater</span>
+            <a href="https://gateway.futurewater.indiana.edu/" title="Future Water Science Gateway">
+                <span id="campus-name" class="show-on-desktop" itemprop="name">Future Water Science Gateway</span>
+                <span class="show-on-tablet" itemprop="name">Future Water Science Gateway</span>
+                <span class="show-on-mobile" itemprop="name">Future Water</span>
             </a>
         </p>
     </div>
