@@ -18,12 +18,15 @@
                         forecasts but also to change the ways that scientific results are communicated. We have endeavored to make the model and modeling
                         results accessible to scholar collaborators and  policy makers, and the public.
                         </p>
+                        <p>
+                        <a class="button" href="https://futurewater.indiana.edu" target="_blank">FutureWater Home</a>
+                        </p>
                     </div>
                 </div>
                 <div class="one-half">
                     <div class="panel--interactive">
                         <p class="title">Explore Modeling Results</p>
-                        <p>some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
+                        <p>Some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
                         choose a CO2 emission scenario, and choose a time period. The maps will show forecasts of precipitation, streamflow level, and soil moisture.
                         Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
                         </p>
