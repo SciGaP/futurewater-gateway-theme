@@ -3,7 +3,7 @@
 <main class="wide" role="main">
 
 
-        <div class="bg-crimson bg-dark section" id="">
+        <div class="bg-none section" id="">
             <div class="row">
                 <div class="one-half">
                     <div class="panel--interactive">
@@ -40,7 +40,7 @@
         </div>
 
 
-    <div class="breakout bg-none section" id="">
+    <div class="breakout bg-crimson bg-dark section" id="">
         <div class="row">
             <div class="text">
                 <h3>FutureWater Computations</h3>
