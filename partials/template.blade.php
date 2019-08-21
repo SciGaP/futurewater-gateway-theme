@@ -91,13 +91,17 @@
 -->
     <div class="bg-none section" id="">
         <div class="row">
-            <div class="text"><h2>Contact Information:</h2>
-                <p>The Nanoconfinement Science Gateway is hosted at SciGaP gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
+            <div class="title"><h2>Contact Us</h2>
+                <p> Th FutureWater gateway us part of the "Prepared for Envirnmental Change" Grand Challenge
+                </p>
+                <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu
+                </p>
+                <p> Email: <a href="mailto:henzhu@indiana.edu"> Chen</a></p>
+                <p>The FutureWater Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
 
                 </p>
                 <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
-                <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache
-                        Airavata</a>
+                <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache Airavata</a>
             </div>
         </div>
     </div>
@@ -105,6 +109,7 @@
 
     <div class="bg-crimson bg-dark section" id="">
         <div class="row">
+        <!--
             <div class="one-half">
                 <div class="panel--interactive">
                     <p class="title"> SciGaP Gateway Platform </p>
@@ -114,6 +119,7 @@
                     Science Gateway Platform as a Service (SciGaP) provides application programmer interfaces (APIs) to hosted generic infrastructure services that can be used by domain science
                     communities to create Science Gateways.</p>
                     <p>
+                    -->
                     <a href="https://scigap.org/" target="_blank">Learn More</a>
                     </p>
                 </div>
@@ -149,47 +155,5 @@
     </div>
 -->
 
-
-<!--
-    <div class="section bg-none belt" id="contact">
-        <div class="row">
-            <div class="grid">
-                <div class="belt-social invert border">
-                    <div class="belt-title" style="margin-bottom: .5em;">
-                        <h3>References:</h3>
-                    </div>
-                    <p style="padding-right:10%;">
-                        The following publications describe the nanoconfinement simulation methods and
-                        provide useful background. </p>
-                    <ul>
-                        <li>
-                            <a href="http://aip.scitation.org/doi/10.1063/1.4935704" target="_blank">
-                                Jing, Yufei, Vikram Jadhao, Jos W. Zwanikken, and Monica Olvera de la Cruz.
-                                "Ionic
-                                structure in liquids confined by dielectric interfaces." The Journal of Chemical
-                                Physics 143, no. 19 (2015): 194508.
-                            </a></li>
-                        <li>
-                            <a href="http://aip.scitation.org/doi/abs/10.1063/1.4789955" target="_blank">
-                                Vikram Jadhao, Francisco J. Solis, and Monica Olvera de la Cruz. "A variational
-                                formulation
-                                of electrostatics in a medium with spatially varying dielectric permittivity"
-                                The Journal of Chemical Physics, 138, (2013): 054119.
-                            </a></li>
-                        <li>
-                            <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.223905"
-                               target="_blank">
-                                Vikram Jadhao, Francisco J. Solis, and Monica Olvera de la Cruz. "Simulation of
-                                charged
-                                systems in heterogeneous dielectric media via a true energy functional" Physical
-                                Review Letters,
-                                109, no. 22 (2012): 223905.
-                            </a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    -->
 
 </main>
