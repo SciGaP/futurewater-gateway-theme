@@ -56,7 +56,7 @@
 
     <div class="bg-none section" id="">
         <div class="row">
-        <div class="panel--interactive">
+            <div class="panel--interactive">
             <p class="title"> Contact Us</p>
                 <p> The FutureWater gateway us part of the "Prepared for Environmental Change" Grand Challenge
                 </p>
