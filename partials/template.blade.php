@@ -66,7 +66,9 @@
                     <p class="title">Apache Airavata</p>
                     <p>Apache Airavata is a software framework which is dominantly used to build Web-based science gateways and assist to compose, manage, execute and monitor large scale applications and workflows on distributed computing resources such as local clusters, supercomputers, national grids, academic and commercial clouds.
                     Airavata mainly supports long running applications and workflows on distributed computational resources.</p>
-                    <p href="https://airavata.apache.org/" target="_blank">Learn More</p>
+                    <p>  
+                    <a href="https://airavata.apache.org/" target="_blank">Learn More</a>
+                    </p>
                 </div>
             </div>
         </div>
