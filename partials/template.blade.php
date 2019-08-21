@@ -119,7 +119,7 @@
             </div>
         </div>
     </div>
-
+<!--
     <div class="breakout bg-none section" id="">
         <div class="row">
             <div class="one-half">
@@ -136,19 +136,17 @@
             </div>
         </div>
     </div>
-
+-->
 
     <div class="bg-crimson bg-image bg-dark section" id="">
         <div class="row">
             <div class="text"><h2>Contact Information:</h2>
-                <p>The Nanoconfinement Science Gateway is operated by Suresh Marru and Vikram Jadhao. </p>
-                <p>Lab Website <a href="https://jadhaolab.engineering.indiana.edu/" target="_blank">https://jadhaolab.engineering.indiana.edu/</a>
+                <p>The Nanoconfinement Science Gateway is hosted at SciGaP gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
+
                 </p>
-                <p>Email: <a href="mailto:smarru@iu.edu">smarru at iu.edu</a>, <a href="mailto:vjadhao@iu.edu">vjadhao
-                        at iu.edu</a></p>
+                <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
                 <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache
-                        Airavata</a> developed and supported by the <a
-                            href="https://sgrc.iu.edu/" target="_blank">IU Science Gateways Research Center.</a>
+                        Airavata</a>
             </div>
         </div>
     </div>
