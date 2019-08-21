@@ -56,7 +56,7 @@
 
     <div class="bg-none section" id="">
         <div class="row">
-            <div class="title"><h2>Contact Us</h2>
+            <p class="title"> Contact Us</p>
                 <p> Th FutureWater gateway us part of the "Prepared for Envirnmental Change" Grand Challenge
                 </p>
                 <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu
