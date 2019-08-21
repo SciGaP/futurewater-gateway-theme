@@ -107,7 +107,7 @@
             </div>
         </div>
     </div>
-
+<!--
     <div class="section bg-none belt" id="contact">
         <div class="row">
             <div class="grid">
@@ -147,5 +147,6 @@
             </div>
         </div>
     </div>
+    -->
 
 </main>
