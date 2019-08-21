@@ -53,42 +53,7 @@
             </div>
         </div>
     </div>
-<!--
-    <div class="bg-crimson bg-image bg-dark section" id="">
-            <div class="row">
-            <h2>Nanoconfinement Science Gateway enables you to:</h2>
 
-                <div class="one-third text-center">
-                    <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-th"></span><p>Obtain information about the distribution and assembly of ions in nanoconfinement.</p>
-                </div>
-                <div class="one-third text-center">
-                <span style="font-size:2em;" class="glyphicon glyphicon-th-list">
-                <p>Run simulations on IU and XSEDE HPC computational resources.</p>
-                </div>
-                <div class="one-third text-center">
-                    <span style="font-size:2em;" class="glyphicon glyphicon glyphicon-share"></span>
-                    <p>Share your simulation results with your peers.</p>
-                </div>
-                </ul>
-            </div>
-
-            <div class="row text">
-
-                <div class="one-half text-center">
-                    <span style="font-size:1.5em;" class="glyphicon glyphicon-tasks"></span>
-                    <p>Simulate ions confined between biological and synthetic surfaces that are
-                        nanometers apart.
-                    </p>
-                </div>
-                <div class="one-half text-center">
-                <span style="font-size:1.5em;" class="glyphicon glyphicon-random" ></span>
-                    <p>Experiment with various ionic and environmental attributes including ion valency and
-                        salt concentration.
-                    </p>
-                </div>
-            </div>
-        </div>
--->
     <div class="bg-none section" id="">
         <div class="row">
             <div class="title"><h2>Contact Us</h2>
@@ -119,19 +84,10 @@
                     Science Gateway Platform as a Service (SciGaP) provides application programmer interfaces (APIs) to hosted generic infrastructure services that can be used by domain science
                     communities to create Science Gateways.</p>
                     <p>
-                    -->
+
                     <a href="https://scigap.org/" target="_blank">Learn More</a>
                     </p>
-                </div>
-            </div>
-            <div class="one-half">
-                <div class="panel--interactive">
-                    <p class="title">Apache Airavata</p>
-                    <p>Apache Airavata is a software framework which is dominantly used to build Web-based science gateways and assist to compose, manage, execute and monitor large scale applications and workflows on distributed computing resources such as local clusters, supercomputers, national grids, academic and commercial clouds.
-                    Airavata mainly supports long running applications and workflows on distributed computational resources.</p>
-                    <p>
-                    <a href="https://airavata.apache.org/" target="_blank">Learn More</a>
-                    </p>
+                    -->
                 </div>
             </div>
         </div>
