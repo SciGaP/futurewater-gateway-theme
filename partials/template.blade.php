@@ -26,13 +26,9 @@
                         <p>some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
                         choose a CO2 emission scenario, and choose a time period. The maps will show forecasts of precipitation, streamflow level, and soil moisture.
                         Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
-                        <p>
-                        Successful management of water resources requires us all not only to put the best sciences into our
-                        forecasts but also to change the ways that scientific results are communicated. We have endeavored to make the model and modeling
-                        results accessible to scholar collaborators and  policy makers, and the public. Please visit the two tabs below respectively.
                         </p>
                         <p>
-                        <a href="https://analysis.futurewater.indiana.edu" target="_blank">Login to Explore</a>
+                        <a class="button" href="https://analysis.futurewater.indiana.edu" target="_blank">Login to Explore</a>
                         </p>
                     </div>
                 </div>
@@ -52,7 +48,7 @@
             </div>
         </div>
     </div>
-
+<!--
     <div class="bg-crimson bg-image bg-dark section" id="">
             <div class="row">
             <h2>Nanoconfinement Science Gateway enables you to:</h2>
@@ -87,7 +83,19 @@
                 </div>
             </div>
         </div>
+-->
+    <div class="bg-none section" id="">
+        <div class="row">
+            <div class="text"><h2>Contact Information:</h2>
+                <p>The Nanoconfinement Science Gateway is hosted at SciGaP gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
 
+                </p>
+                <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
+                <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache
+                        Airavata</a>
+            </div>
+        </div>
+    </div>
 
 
     <div class="bg-crimson bg-dark section" id="">
@@ -136,18 +144,7 @@
     </div>
 -->
 
-    <div class="bg-crimson bg-image bg-dark section" id="">
-        <div class="row">
-            <div class="text"><h2>Contact Information:</h2>
-                <p>The Nanoconfinement Science Gateway is hosted at SciGaP gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
 
-                </p>
-                <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
-                <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache
-                        Airavata</a>
-            </div>
-        </div>
-    </div>
 <!--
     <div class="section bg-none belt" id="contact">
         <div class="row">
