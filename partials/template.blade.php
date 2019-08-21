@@ -2,42 +2,10 @@
 
 <main class="wide" role="main">
 
-    <div class="bg-crimson bg-dark section" id="">
-        <div class="row">
-            <div class="one-half">
-                <div class="panel--interactive">
-                    <p class="title"> FutureWater Computations </p>
-                    <p>Computations are done by water resource experts and scholar collaborators. Our hydrological data and model source codes will be hosted on
-                    IU’s exceptional High-Performance Computing cyberinfrastructure. Collaborators can either run their own models by modifying the input
-                    files or mine the huge catches of modeling output files stored on Big Red II and analyze the data to answer questions related to their own disciplines.
-                       These models could become research infrastructure for student dissertation research across schools and disciplines with
-                       downstream applications, for instances of flood frequency forecasting, social-economic modeling, and animal migrations. We
-                       envision a near future where our models and gateway, once fully developed, become a platform for future research collaboration and
-                       service toward better management of water quantity and water quality in Indiana.
-.</p>
-                    <p>
-                    <a href="https://gateway.futurewater.indiana.edu/login" target="_blank">Login to run Computations</a>
-                    </p>
-                </div>
-            </div>
-            <div class="one-half">
-                <div class="panel--interactive">
-                    <p class="title">Model Exploration</p>
-                    <p>some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
-                    choose a CO2 emission scenario, and choose a time period. The maps will show forecasts of precipitation, streamflow level, and soil moisture.
-                    Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
-                    <p>
-                    <a href="https://analysis.futurewater.indiana.edu" target="_blank">Explore current Results</a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="breakout bg-none section" id="">
         <div class="row">
             <div class="text">
-                <h2>Future Water Project is ....</h2>
+                <h3>Future Water Project is ....</h3>
                 <p>
                 To better assess water resources availability in the future, we used the USDA Soil-Water Assessment Tool software package and climate
                 projections from an ensemble of 10 global climate models (GCMs) to simulate climate change impacts on the water cycles in the Wabash River Basin,
@@ -54,6 +22,38 @@
             </div>
         </div>
     </div>
+
+        <div class="bg-crimson bg-dark section" id="">
+            <div class="row">
+                <div class="one-half">
+                    <div class="panel--interactive">
+                        <p class="title"> FutureWater Computations </p>
+                        <p>Computations are done by water resource experts and scholar collaborators. Our hydrological data and model source codes will be hosted on
+                        IU’s exceptional High-Performance Computing cyberinfrastructure. Collaborators can either run their own models by modifying the input
+                        files or mine the huge catches of modeling output files stored on Big Red II and analyze the data to answer questions related to their own disciplines.
+                           These models could become research infrastructure for student dissertation research across schools and disciplines with
+                           downstream applications, for instances of flood frequency forecasting, social-economic modeling, and animal migrations. We
+                           envision a near future where our models and gateway, once fully developed, become a platform for future research collaboration and
+                           service toward better management of water quantity and water quality in Indiana.
+    .</p>
+                        <p>
+                        <a href="https://gateway.futurewater.indiana.edu/login" target="_blank">Login to run Computations</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="one-half">
+                    <div class="panel--interactive">
+                        <p class="title">Model Exploration</p>
+                        <p>some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
+                        choose a CO2 emission scenario, and choose a time period. The maps will show forecasts of precipitation, streamflow level, and soil moisture.
+                        Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
+                        <p>
+                        <a href="https://analysis.futurewater.indiana.edu" target="_blank">Explore current Results</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     <div class="bg-crimson bg-image bg-dark section" id="">
             <div class="row">
