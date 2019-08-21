@@ -41,8 +41,20 @@
     <div class="breakout bg-none section" id="">
         <div class="row">
             <div class="text">
-                <h2>Future Water Science Gateway</h2>
+                <h2>Future Water Science Gateway is ....</h2>
                 <h3>Modeling climate change impact on Indiana's water resources. The project is part of the "Prepared for Environmental Change" Grand Challenge.</h3>
+                <p>
+                To better assess water resources availability in the future, we used the USDA Soil-Water Assessment Tool software package and climate
+                projections from an ensemble of 10 global climate models (GCMs) to simulate climate change impacts on the water cycles in the Wabash River Basin,
+                which covers most of Indiana. Our computer simulations predicted the water cycles to the year 2100 under
+                two IPCC CO2 emission scenarios: RCP 4.5 and 8.5, representing a medium- and high-emissions scenario, respectively.
+                </p>
+                <br></br>
+                <p>
+                Successful management of water resources requires us all not only to put the best sciences into our
+                forecasts but also to change the ways that scientific results are communicated. We have endeavored to make the model and modeling
+                results accessible to scholar collaborators and  policy makers, and the public. Please visit the two tabs below respectively.
+                </p>
                 <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/workflowimage.png"/>
             </div>
         </div>
