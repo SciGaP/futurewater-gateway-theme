@@ -19,7 +19,7 @@
                         results accessible to scholar collaborators and  policy makers, and the public.
                         </p>
                         <p>
-                        <a class="button" href="https://futurewater.indiana.edu" target="_blank">Future Water Home</a>
+                        <a class="button" href="https://futurewater.iu.edu" target="_blank">Future Water Home</a>
                         </p>
                     </div>
                 </div>
