@@ -28,7 +28,9 @@
                         <p class="title">Explore Modeling Results</p>
                         <p>Some modeling results are shown as interactive plots, maps, and data download. Users can click on a subbasin of interest,
                         choose a CO2 emission scenario, and choose a time period. The maps will show forecasts of precipitation, streamflow level, and soil moisture.
-                        Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors</p>
+                        Please note that all models carry uncertainties and the hydrological models propagate the uncertainties in the atmospheric circulation model errors.
+                        You can access the results with IU CAS login credentials.
+                        </p>
                         </p>
                         <p>
                         <a class="button" href="https://analysis.futurewater.indiana.edu" target="_blank">Explore Results
@@ -58,9 +60,9 @@
         <div class="row">
             <div class="panel--interactive">
                 <p class="title"> Contact Us</p>
-                    <p> The Future Water gateway is part of the "Prepared for Environmental Change" Grand Challenge
+                    <p> The Future Water gateway is part of the "<a href="https://eri.iu.edu/" target="_blank">Prepared for Environmental Change</a>" Grand Challenge
                     </p>
-                    <p> Gateway PI: <a href="https://earth.indiana.edu/directory/faculty/zhu-chen.html" target=_blank"> Chen Zhu </a>
+                    <p> Gateway PI: <a href="https://hydrogeochem.earth.indiana.edu/" target=_blank"> Chen Zhu </a>
                     </p>
                     <p> Email: <a href="mailto:henzhu@indiana.edu"> Chen</a></p>
                     <p>The Future Water Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
