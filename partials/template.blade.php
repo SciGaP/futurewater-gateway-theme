@@ -64,7 +64,7 @@
                     </p>
                     <p> Gateway PI: <a href="https://hydrogeochem.earth.indiana.edu/" target=_blank"> Chen Zhu </a>
                     </p>
-                    <p> Email: <a href="mailto:henzhu@indiana.edu"> Chen</a></p>
+                    <p> Email: <a href="mailto:chenzhu@indiana.edu"> Chen</a></p>
                     <p>The Future Water Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a href="https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
                 <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
                 <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache Airavata</a>
@@ -104,13 +104,13 @@
                 <br>
                 <h4>Researchers’ view of a sample result on the Gateway: Ionic distributions within 3 nm confinement
                     for ions of different valency (1,2,3).</h4>
-            </div>
-            <div class="one-half">
-                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sample.results.png"/>
+            </div>-->
+            <!--<div class="one-half">-->
+                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Future Water Gateway Overview V1.3.png"/>
             </div>
         </div>
     </div>
--->
+
 
 
 </main>
