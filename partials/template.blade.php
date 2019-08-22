@@ -105,7 +105,7 @@
                 <h4>Researchers’ view of a sample result on the Gateway: Ionic distributions within 3 nm confinement
                     for ions of different valency (1,2,3).</h4>
             </div>-->
-            <!--<div class="one-half">-->
+            <div class="text">
                 <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Future Water Gateway Overview V1.3.png" width="80%"/>
             </div>
         </div>
