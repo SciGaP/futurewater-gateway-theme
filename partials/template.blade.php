@@ -106,7 +106,7 @@
                     for ions of different valency (1,2,3).</h4>
             </div>-->
             <!--<div class="one-half">-->
-                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Future Water Gateway Overview V1.3.png"/>
+                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Future Water Gateway Overview V1.3.png" width="80%"/>
             </div>
         </div>
     </div>
