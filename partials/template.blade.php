@@ -51,7 +51,7 @@
                 Computations are done by water resource experts and scholar collaborators. Our hydrological data and model
                 source codes will be hosted on IU’s exceptional High-Performance Computing cyberinfrastructure. Collaborators can either run their own models by modifying the input files or mine the huge catches of modeling output files stored on Big Red II and analyze the data to answer questions related to their own disciplines. These models could become research infrastructure for student dissertation research across schools and disciplines with downstream applications, for instances of flood frequency forecasting, social-economic modeling, and animal migrations. We envision a near future where our models and gateway, once fully developed,
                 become a platform for future research collaboration and service toward better management of water quantity and water quality in Indiana.
-                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Future Water Gateway Overview V1.3.png" width="80%"/>
+                <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Future Water Gateway Overview V1.3.png" width="100%"/>
             </div>
         </div>
     </div>
