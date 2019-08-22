@@ -65,7 +65,7 @@
                     <p> Gateway PI: <a href="https://hydrogeochem.earth.indiana.edu/" target=_blank"> Chen Zhu </a>
                     </p>
                     <p> Email: <a href="mailto:henzhu@indiana.edu"> Chen</a></p>
-                    <p>The Future Water Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
+                    <p>The Future Water Science Gateway is hosted at <a href="https://scigap.org/" target="_blank">SciGaP</a> gateway platform managed by <a href="https://sgrc.iu.edu/" target="_blank">Science Gateways Research Center</a></p>
                 <p>Email: <a href="mailto:sgrc@iu.edu">SGRC</a></p>
                 <p> The Gateway is based on <a href="https://airavata.apache.org/" target="_blank"> Apache Airavata</a>
             </div>
